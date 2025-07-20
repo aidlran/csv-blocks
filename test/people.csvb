@@ -1,0 +1,8 @@
+Name          , Height (in):num , Registered:bool , DOB:date   , Added:date
+
+              ,                 , false           ,            , 2025-07-19
+Phillip Baker , 70              , true            , 1994-01-27
+
+              ,                 , false           ,            , 2025-07-20
+John Smith    , 68              , true            , 1992-02-15
+Rebecca White , 62              ,                 , 1996-08-09
